@@ -1,0 +1,48 @@
+/* skill */
+.skill-content h1{
+    text-align: center;
+    margin: 20px 0px;
+}
+.skill-percantage-container{
+    margin-top: 50px;
+}
+.skill-percantage-container span{
+    float: right;
+}
+.percentage{
+    width: 90%;
+    height: 30px;
+    margin:20px auto;
+    background: #EEEEEE;
+    border-radius: 15px;
+    line-height: 30px;
+}
+
+.col-padding-radius{
+    border-radius: 15px 0px 0px 15px;
+    background: #ffc608;
+    padding: 0px 10px;
+}
+
+
+/* Web Design */
+
+.adobe-photoshop{
+    width: 70%;
+}
+.html-css{
+    width: 95%;
+}
+.twitter-bootstrap{
+    width: 90%;
+}
+/* Web Development */
+.javascript{
+    width: 70%;
+}
+.php{
+    width: 95%;
+}
+.wordpress{
+    width: 90%;
+}
